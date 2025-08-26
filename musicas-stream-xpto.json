@@ -1,48 +1,56 @@
 {
   "musics": [
     {
+      "id": "xpto-001",
       "title": "Bohemian Rhapsody",
       "artist": "Queen",
       "year": 1975,
       "genre": "Rock"
     },
     {
+      "id": "xpto-002",
       "title": "Stairway to Heaven",
       "artist": "Led Zeppelin",
       "year": 1971,
       "genre": "Rock"
     },
     {
+      "id": "xpto-003",
       "title": "Thriller",
       "artist": "Michael Jackson",
       "year": 1982,
       "genre": "Pop"
     },
     {
+      "id": "xpto-004",
       "title": "Billie Jean",
       "artist": "Michael Jackson",
       "year": 1983,
       "genre": "Pop"
     },
     {
+      "id": "xpto-005",
       "title": "Lose Yourself",
       "artist": "Eminem",
       "year": 2002,
       "genre": "Hip Hop"
     },
     {
+      "id": "xpto-006",
       "title": "Sweet Child O' Mine",
       "artist": "Guns N' Roses",
       "year": 1987,
       "genre": "Rock"
     },
     {
+      "id": "xpto-007",
       "title": "Dear Mama",
       "artist": "2Pac",
       "year": 1995,
       "genre": "Hip Hop"
     },
     {
+      "id": "xpto-008",
       "title": "November Rain",
       "artist": "Guns N' Roses",
       "year": 1991,
